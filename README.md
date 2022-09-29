@@ -1,2 +1,2 @@
-# computerMathematics
+# ComputerMathematics
 Некоторые методы компьютерной математики
